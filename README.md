@@ -1,2 +1,4 @@
 # canvas-raycaster
-Using the &lt;canvas> element to do software rendering of a 3D environment with ray-casting
+A demo using the [&lt;canvas&gtl;](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) element to do software rendering of a 3D environment with ray-casting. For more information, read the MDN article "A [basic ray-caster"](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/A_basic_ray-caster).
+
+You can try this ray-caster here: [Demo](http://mdn.github.io/canvas-raycaster/)
