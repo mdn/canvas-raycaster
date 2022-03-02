@@ -19,6 +19,7 @@ var input = {
 };
 
 function press(evt) {
+  evt.preventDefault();
   var code = evt.keyCode;
   switch(code) {
     case KEY.RIGHT:
